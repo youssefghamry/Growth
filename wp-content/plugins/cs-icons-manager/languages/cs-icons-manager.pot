@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-07 10:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#. Description of the plugin
+#: assets/translate/class-strings.php:32
+msgid "CS Icons Manager"
+msgstr ""
+
+#: assets/translate/class-strings.php:33
+msgid "Icons Library"
+msgstr ""
+
+#: assets/translate/class-strings.php:34
+msgid "Zip must contain the selection.json, SVG, and style.css files."
+msgstr ""
+
+#: assets/translate/class-strings.php:35
+msgid "Group Successfully Removed"
+msgstr ""
+
+#: assets/translate/class-strings.php:36
+msgid "Browse"
+msgstr ""
+
+#: assets/translate/class-strings.php:37
+msgid "Upload New Icons"
+msgstr ""
+
+#: assets/translate/class-strings.php:38
+msgid "Group Status Changed Successfully"
+msgstr ""
+
+#: assets/translate/class-strings.php:39
+msgid "Group name already exists"
+msgstr ""
+
+#: assets/translate/class-strings.php:40
+msgid "Delete"
+msgstr ""
+
+#: assets/translate/class-strings.php:41
+msgid "Only Zip Files are Supported"
+msgstr ""
+
+#: assets/translate/class-strings.php:42
+msgid "Icons are uploaded Successfully"
+msgstr ""
+
+#: assets/translate/class-strings.php:43
+msgid "Select Group"
+msgstr ""
+
+#: assets/translate/class-strings.php:44
+msgid "Export Icons"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
